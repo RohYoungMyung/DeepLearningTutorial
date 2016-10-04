@@ -1,4 +1,4 @@
 # Deep Learning Tutorial
 
-1. [µö·¯´× ¿ë¾î»çÀü](https://github.com/tgjeon/DeepLearningTutorial/blob/master/DeepLearningGlossary.md) [Deep Learning Glossary (from wildml.com)]
+1. [ë”¥ ëŸ¬ë‹ ìš©ì–´ì‚¬ì „](https://github.com/tgjeon/DeepLearningTutorial/blob/master/DeepLearningGlossary.md) [Deep Learning Glossary (from wildml.com)]
 2. 
