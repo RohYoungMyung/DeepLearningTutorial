@@ -104,3 +104,153 @@ C
 
 **CATEGORICAL CROSS-ENTROPY LOSS**
 
+
+**CHANNEL**
+
+**CONVOLUTIONAL NEURAL NETWORK (CNN, CONVNET)**
+
+
+
+D
+--------------
+
+**DEEP BELIEF NETWORK (DBN)**
+
+**DEEP DREAM**
+
+**DROPOUT**
+
+
+E
+--------------
+
+**EMBEDDING**
+
+**EXPLODING GRADIENT PROBLEM**
+
+
+F
+--------------
+
+**FINE-TUNING**
+
+
+G
+--------------
+
+**GRADIENT CLIPPING**
+
+**GLOVE**
+
+**GOOGLELENET**
+
+**GRU**
+
+
+H
+--------------
+
+**HIGHWAY LAYER**
+
+
+
+I
+--------------
+**ICML**
+
+**ILSVRC**
+
+**INCEPTION MODULE**
+
+
+K
+--------------
+**KERAS**
+
+
+L
+--------------
+**LSTM**
+
+
+M
+--------------
+**MAX-POOLING**
+
+**MNIST**
+
+**MOMENTUM**
+
+**MULTILAYER PERCEPTRON (MLP)**
+
+
+N
+--------------
+
+**NEURAL MACHINE TRANSLATION (NMT)**
+
+**NEURAL TURING MACHINE (NTM)**
+
+**NONLINEARITY**
+
+**NOISE-CONTRASTIVE ESTIMATION (NCE)**
+
+
+P
+--------------
+**POOLING**
+
+
+R
+--------------
+
+**RESTRICTED BOLTZMANN MACHINE (RBM)**
+
+**RECURRENT NEURAL NETWORK (RNN)**
+
+**RECURSIVE NEURAL NETWORK**
+
+**RELU**
+
+**RESNET**
+
+**RMSPROP**
+
+S
+--------------
+
+**SEQ2SEQ**
+
+**SGD**
+
+**SOFTMAX**
+
+
+T
+--------------
+
+**TENSORFLOW**
+
+**THEANO**
+
+
+V
+--------------
+
+**VANISHING GRADIENT PROBLEM**
+
+**VGG**
+
+
+W
+--------------
+
+**WORD2VEC**
+
+
+
+
+
+## References
+
+* [Deep Learning Glossary @ wildml.com](http://www.wildml.com/deep-learning-glossary/)
